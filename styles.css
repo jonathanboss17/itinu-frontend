@@ -1,0 +1,20 @@
+body {
+    background-image: url('img/IMG_0030.png'); 
+    background-size: 1645px; 
+}
+
+#search_bar {
+    /* display: flex; 
+    justify-content: center;  */
+    margin: 0;
+    position: absolute;
+    top: 47%;
+    left: 53%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+#destination_show {
+    display: flex; 
+    justify-content: center; 
+}
